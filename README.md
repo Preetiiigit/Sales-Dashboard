@@ -80,9 +80,16 @@ North Dakota and Oklahoma are flagged as Not Achieved.
 
 ⚠️ Room for Improvement: Address low-performing segments and states with targeted action.
 
-Example - ![Dashboard Preview](https://github.com/Preetiiigit/Sales-Dashboard/blob/main/Screenshot%202025-07-03%20155205.png).
+Example -
+<img width="2414" height="1257" alt="Screenshot 2025-07-03 154959" src="https://github.com/user-attachments/assets/2605b619-37e3-4b5e-a067-9b255f1dda9f" />
 
 
-<img width="1986" height="1029" alt="Screenshot 2025-07-14 140107" src="https://github.com/user-attachments/assets/9ac1f890-a170-4ae0-bb94-320dbb6430ac" />
+ ![Dashboard Preview](https://github.com/Preetiiigit/Sales-Dashboard/blob/main/Screenshot%202025-07-03%20155205.png).
+
+<img width="2237" height="1240" alt="Screenshot 2025-07-03 155341" src="https://github.com/user-attachments/assets/136bf47e-3f50-467e-8a2d-df07e72a1fad" />
+
+
+
+
 
 
