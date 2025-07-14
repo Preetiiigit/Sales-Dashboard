@@ -79,3 +79,5 @@ North Dakota and Oklahoma are flagged as Not Achieved.
 🎯 Key Customers Matter: A small group of clients drive a major portion of revenue—prioritize relationship management.
 
 ⚠️ Room for Improvement: Address low-performing segments and states with targeted action.
+
+Example - https://github.com/Preetiiigit/Sales-Dashboard/blob/main/Screenshot%202025-07-03%20155205.png
